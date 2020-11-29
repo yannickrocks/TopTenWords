@@ -1,0 +1,16 @@
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.exe
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.deps.json
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.runtimeconfig.json
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.runtimeconfig.dev.json
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.dll
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\TopTenWords.pdb
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.csprojAssemblyReference.cache
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.AssemblyInfoInputs.cache
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.AssemblyInfo.cs
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.csproj.CoreCompileInputs.cache
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.dll
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.pdb
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.genruntimeconfig.cache
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\bin\Debug\netcoreapp3.1\LOTR.txt
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.Properties.Resources.resources
+D:\git\Projects\TopTenWords\TopTenWords\TopTenWords\obj\Debug\netcoreapp3.1\TopTenWords.csproj.GenerateResource.cache
